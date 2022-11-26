@@ -43,6 +43,7 @@ Berikut hasil tree perhitungan CIDR:
 ### 3. Cisco
 <img alt="topologi cisco" src="pic/cisco.png">
 ### 4. GNS
+<img alt="gns" src="pic/gns.png">
 
  
  ## Kendala
