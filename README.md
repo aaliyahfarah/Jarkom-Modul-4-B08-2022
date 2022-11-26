@@ -34,15 +34,15 @@
 	5. Pembagian IP dan routing harus SE-EFISIEN MUNGKIN.
 	
 ## Jawaban
-	1. Tree VLSM
-	Berikut hasil tree perhitungan VLSM:
+### 1. Tree VLSM
+Berikut hasil tree perhitungan VLSM:
 <img alt="VLSM" src="pic/vlsm.png">
-	2. Tree CIDR
-	Berikut hasil tree perhitungan CIDR:
+### 2. Tree CIDR
+Berikut hasil tree perhitungan CIDR:
 <img alt="CIDR" src="pic/cidr.png">
-	3. Cisco
+### 3. Cisco
 <img alt="topologi cisco" src="pic/cisco.png">
-	4. GNS
+### 4. GNS
 
  
  ## Kendala
